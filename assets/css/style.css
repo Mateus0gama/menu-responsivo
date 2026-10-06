@@ -41,13 +41,13 @@ header {
 
 .nav-item {
   margin: 0px 15px;
-  color: white;
-  font-weight: 400;
-  font-size: 1.15rem;
 }
 
 .nav-link {
   text-decoration: none;
+  color: white;
+  font-weight: 400;
+  font-size: 1.15rem;
 }
 
 .login-button button {
